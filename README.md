@@ -18,4 +18,4 @@ A sticky footer was added, but I am unsure how to get it to the bottom of the pa
 
 Link to REPO: https://github.com/Spiffypal/HW-Responsive-Portfolio
 
-Link to 
+Link to deployed app: https://spiffypal.github.io/HW-Responsive-Portfolio/
